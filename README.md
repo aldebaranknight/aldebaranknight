@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile dev and game dev!
 - 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on mobile dev.
-- 📫 How to reach me: Twitter/X: @aldebarantweets
+- 📫 How to reach me: mail: 0427wolfgang@gmail.com
 - ⚡ Fun fact: I like sweets occasionally and I love learning new things. Getting to know and work with developers and programmers is kinda like a habit of mine. get in touch!
 
 <!---
